@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tan_tooltips",
+  "name": "TAN Tooltips",
+  "description": "Adds tooltips to drinkables. Now fully configureable!",
+  "version": "0.2",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["R4L_34"],
+  "credits": "",
+  "logoFile": "assets/tan_tooltips/textures/gui/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
