@@ -6,6 +6,7 @@ Since this mod only changes ui and gets all of the necessary values are stored i
 You can assign a tooltip to any iten by adding it in the config file.
 
 Example:
+
 minecraft:item|T20|H20 // Assigns thirst 20 and hydration 20 to minecraft:item with metadata == 0
 minecraft:item:0|T20|H20 // Same result as in the first example
 
