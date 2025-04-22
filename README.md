@@ -13,4 +13,4 @@ minecraft:item:0|T20|H20 // Same result as in the first example
 
 minecraft:another_item:5|T20|H20 // You also can spesify metadata in this case it's five
 
-minecraft:another_item:*|T20|H20 // Or assign a Tooltip to all metadata using the symbol "*"
+minecraft:another_item:\*|T20|H20 // Or assign a Tooltip to all metadata using the symbol "\*"
